@@ -3,7 +3,7 @@
             <h2 class="nosotros_heading">Beneficios de consumir fruta y verdura ecológica</h2>
     
             <div class="nosotros_grid">
-                <img class="beneficios_imagen" src="img/beneficios_02.jpg" alt="imagen beneficios">
+                <img class="beneficios_imagen" src="/img/beneficios_02.jpg" alt="imagen beneficios">
                 
                 <div class="nosotros_contenido">
                     <ul class="beneficios_lista">
