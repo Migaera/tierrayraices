@@ -3,7 +3,7 @@
         <h2 class="nosotros_heading">Nosotros</h2>
 
         <div class="nosotros_grid">
-            <img src="img/nosotros.jpg" alt="imagen nosotros">
+            <img src="/img/nosotros.jpg" alt="imagen nosotros">
             
             <div class="nosotros_contenido">
                 <p>
